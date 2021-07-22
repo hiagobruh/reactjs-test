@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "gregorbiswanger.json2ts",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules",
+    "simonsiefke.svg-preview",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "pmneo.tsimporter",
+    "visualstudioexptteam.vscodeintellicode",
+    "jpoissonnier.vscode-styled-components",
+    "stringham.move-ts",
+    "luis.console-log",
+    "eamodio.gitlens",
+    "ravenq.vscode-goto-node-modules",
+    "ms-vsliveshare.vsliveshare",
+    "eg2.vscode-npm-script",
+    "github.vscode-pull-request-github"
+  ],
+  "unwantedRecommendations": []
+}
